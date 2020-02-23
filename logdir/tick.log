@@ -1,0 +1,1081 @@
+2019.12.31D17:05:41.978855000 #### [INFO] #### Connection closed by 
+used| 324368
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 4172394496
+syms| 719
+symw| 26699
+
+2019.12.31D17:05:45.022448000 #### [INFO] #### Connection opened by daryl
+used| 326304
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 4172394496
+syms| 721
+symw| 26745
+
+2019.12.31D17:05:49.109010000 #### [INFO] #### Connection opened by daryl
+used| 326384
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 4172394496
+syms| 724
+symw| 26820
+
+2019.12.31D17:05:52.211959000 #### [INFO] #### Connection opened by daryl
+used| 326640
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 4172394496
+syms| 726
+symw| 26870
+
+2019.12.31D17:05:57.253062000 #### [INFO] #### Connection opened by daryl
+used| 326800
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 4172394496
+syms| 726
+symw| 26870
+
+2020.02.09D16:35:13.198432000 #### [INFO] #### Connection closed by 
+used| 368928
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 726
+symw| 38070
+
+2020.02.09D16:35:15.456519000 #### [INFO] #### Connection opened by daryl
+used| 371120
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 728
+symw| 38124
+
+2020.02.09D16:35:20.385562000 #### [INFO] #### Connection opened by daryl
+used| 371200
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38358
+
+2020.02.09D16:35:29.538092000 #### [INFO] #### Connection opened by daryl
+used| 371520
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38416
+
+2020.02.09D16:36:13.029024000 #### [INFO] #### Connection opened by daryl
+used| 371712
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38416
+
+2020.02.09D16:48:06.482946000 #### [INFO] #### Connection opened by daryl
+used| 372032
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38416
+
+2020.02.09D17:07:34.724200000 #### [INFO] #### Connection closed by daryl
+used| 371936
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 743
+symw| 38572
+
+2020.02.09D17:21:07.025661000 #### [INFO] #### Connection closed by 
+used| 369424
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 724
+symw| 37926
+
+2020.02.09D17:21:10.032068000 #### [INFO] #### Connection opened by daryl
+used| 371616
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 726
+symw| 37980
+
+2020.02.09D17:21:14.100313000 #### [INFO] #### Connection opened by daryl
+used| 371696
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38214
+
+2020.02.09D17:21:17.162143000 #### [INFO] #### Connection opened by daryl
+used| 372016
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D17:21:22.280492000 #### [INFO] #### Connection opened by daryl
+used| 372176
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D17:21:33.939636000 #### [INFO] #### Connection opened by daryl
+used| 372528
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D17:28:24.518200000 #### [INFO] #### Connection closed by 
+used| 369440
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38073
+
+2020.02.09D17:28:27.146865000 #### [INFO] #### Connection opened by daryl
+used| 371632
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 731
+symw| 38127
+
+2020.02.09D17:28:31.245812000 #### [INFO] #### Connection opened by daryl
+used| 371712
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38214
+
+2020.02.09D17:28:34.384832000 #### [INFO] #### Connection opened by daryl
+used| 372032
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D17:28:39.139979000 #### [INFO] #### Connection opened by daryl
+used| 372192
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D17:28:39.481747000 #### [INFO] #### Connection opened by daryl
+used| 372416
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D18:12:49.350553000 #### [INFO] #### Connection closed by 
+used| 371216
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38073
+
+2020.02.09D18:12:52.447504000 #### [INFO] #### Connection opened by daryl
+used| 373408
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 731
+symw| 38127
+
+2020.02.09D18:12:57.034457000 #### [INFO] #### Connection opened by daryl
+used| 373488
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38214
+
+2020.02.09D18:12:59.588115000 #### [INFO] #### Connection opened by daryl
+used| 373808
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D18:13:04.704800000 #### [INFO] #### Connection opened by daryl
+used| 373968
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D18:13:05.770456000 #### [INFO] #### Connection opened by daryl
+used| 374320
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.09D23:37:30.638207000 #### [INFO] #### Connection closed by daryl
+used| 374224
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 737
+symw| 38301
+
+2020.02.10D08:01:18.710929000 #### [INFO] #### Connection closed by 
+used| 372128
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 726
+symw| 38058
+
+2020.02.10D08:01:21.322846000 #### [INFO] #### Connection opened by daryl
+used| 374320
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 728
+symw| 38112
+
+2020.02.10D08:01:25.456791000 #### [INFO] #### Connection opened by daryl
+used| 374400
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38346
+
+2020.02.10D08:01:28.535160000 #### [INFO] #### Connection opened by daryl
+used| 374720
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38404
+
+2020.02.10D08:01:33.642380000 #### [INFO] #### Connection opened by daryl
+used| 374880
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38404
+
+2020.02.11D00:18:29.625974000 #### [INFO] #### Connection closed by daryl
+used| 374912
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38404
+
+2020.02.13D08:18:32.262115000 #### [INFO] #### Connection closed by 
+used| 372144
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 727
+symw| 38084
+
+2020.02.13D08:18:34.235909000 #### [INFO] #### Connection opened by daryl
+used| 374336
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38138
+
+2020.02.13D08:18:39.674720000 #### [INFO] #### Connection opened by daryl
+used| 374416
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 737
+symw| 38372
+
+2020.02.13D08:18:45.966451000 #### [INFO] #### Connection opened by daryl
+used| 374736
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38430
+
+2020.02.13D08:18:53.360108000 #### [INFO] #### Connection opened by daryl
+used| 374896
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38430
+
+2020.02.13D08:21:03.439656000 #### [INFO] #### Connection opened by daryl
+used| 375248
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38430
+
+2020.02.13D08:21:40.700952000 #### [INFO] #### Connection closed by daryl
+used| 375152
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38430
+
+2020.02.13D08:33:11.367456000 #### [INFO] #### Connection closed by 
+used| 372128
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38073
+
+2020.02.13D08:33:14.081352000 #### [INFO] #### Connection opened by daryl
+used| 374320
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 731
+symw| 38127
+
+2020.02.13D08:33:18.172042000 #### [INFO] #### Connection opened by daryl
+used| 374400
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38214
+
+2020.02.13D08:33:21.322231000 #### [INFO] #### Connection opened by daryl
+used| 374720
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.13D08:33:21.323676000 #### [INFO] #### Connection closed by daryl
+used| 374720
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.13D08:33:26.808167000 #### [INFO] #### Connection opened by daryldaryl
+used| 374848
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.13D08:34:04.816193000 #### [INFO] #### Connection opened by daryl
+used| 375200
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.13D08:34:04.823400000 #### [INFO] #### Connection closed by daryl
+used| 375168
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.14D00:19:30.654392000 #### [INFO] #### Connection closed by daryl
+used| 375136
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+2020.02.14D08:20:01.424413000 #### [INFO] #### Connection closed by 
+used| 372128
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38139
+
+2020.02.14D08:20:04.038754000 #### [INFO] #### Connection opened by daryl
+used| 374320
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 731
+symw| 38193
+
+2020.02.14D08:20:08.086656000 #### [INFO] #### Connection opened by daryl
+used| 374400
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38427
+
+2020.02.14D08:20:11.269372000 #### [INFO] #### Connection opened by daryl
+used| 374720
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 741
+symw| 38485
+
+2020.02.14D08:20:16.315538000 #### [INFO] #### Connection opened by daryl
+used| 374880
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 741
+symw| 38485
+
+2020.02.14D08:26:48.012081000 #### [INFO] #### Connection closed by 
+used| 372112
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 732
+symw| 38154
+
+2020.02.14D08:26:51.089282000 #### [INFO] #### Connection opened by daryl
+used| 374304
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38208
+
+2020.02.14D08:26:55.237636000 #### [INFO] #### Connection opened by daryl
+used| 374384
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 737
+symw| 38295
+
+2020.02.14D08:26:58.319153000 #### [INFO] #### Connection opened by daryl
+used| 374704
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38353
+
+2020.02.14D08:26:58.320256000 #### [INFO] #### Connection closed by daryl
+used| 374704
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38353
+
+2020.02.14D08:27:03.433113000 #### [INFO] #### Connection opened by daryldaryl
+used| 374832
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 739
+symw| 38353
+
+2020.02.16D13:40:12.869548000 #### [INFO] #### Connection opened by daryl
+used| 370208
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 726
+symw| 37983
+
+2020.02.16D13:41:28.747648000 #### [INFO] #### Connection closed by daryl
+used| 370304
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 730
+symw| 38096
+
+2020.02.16D13:41:31.739465000 #### [INFO] #### Connection opened by daryldaryl
+used| 370432
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 730
+symw| 38096
+
+2020.02.16D14:00:57.498351000 #### [INFO] #### Connection opened by daryl
+used| 370560
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 730
+symw| 38096
+
+2020.02.16D14:01:05.116686000 #### [INFO] #### Connection opened by daryl
+used| 370640
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 737
+symw| 38303
+
+2020.02.16D14:01:46.000806000 #### [INFO] #### Connection closed by 
+used| 372400
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 729
+symw| 38073
+
+  2020.02.16D14:01:53.088990000 #### [INFO] #### Connection opened by daryl
+used| 374592
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 731
+symw| 38127
+
+  2020.02.16D14:02:01.313098000 #### [INFO] #### Connection opened by daryl
+used| 374848
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 734
+symw| 38212
+
+  2020.02.23D11:46:52.114075000 #### [INFO] #### Connection closed by 
+used| 372336
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 726
+symw| 38058
+
+  2020.02.23D11:46:55.569560000 #### [INFO] #### Connection opened by daryl
+used| 374528
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 728
+symw| 38112
+
+  2020.02.23D11:46:59.488509000 #### [INFO] #### Connection opened by daryl
+used| 374608
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38346
+
+  2020.02.23D11:47:03.150647000 #### [INFO] #### Connection opened by daryl
+used| 374928
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38404
+
+  2020.02.23D11:47:07.794390000 #### [INFO] #### Connection opened by daryl
+used| 375088
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 738
+symw| 38404
+
+  2020.02.23D11:56:23.258177000 #### [INFO] #### Connection opened by daryl
+used| 370432
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 732
+symw| 38157
+
+  2020.02.23D11:56:33.647119000 #### [INFO] #### Connection closed by daryl
+used| 370352
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D11:57:17.188341000 #### [INFO] #### Connection opened by daryldaryl
+used| 374576
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D11:58:29.169131000 #### [INFO] #### Connection opened by daryl
+used| 374704
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:00:20.769711000 #### [INFO] #### Connection closed by daryldaryl
+used| 374608
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:00:20.769976000 #### [INFO] #### Connection closed by daryl
+used| 374576
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:00:36.319641000 #### [INFO] #### Connection opened by daryldaryldaryl
+used| 374704
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:01:10.073993000 #### [INFO] #### Connection closed by daryldaryldaryl
+used| 374608
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:01:12.228068000 #### [INFO] #### Connection opened by daryldaryldaryldaryl
+used| 374896
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:01:23.543454000 #### [INFO] #### Connection closed by daryldaryldaryldaryl
+used| 374800
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:01:25.756561000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryl
+used| 374928
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:01:40.262132000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryl
+used| 374832
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:02:06.813702000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryl
+used| 375088
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:02:11.695121000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryl
+used| 374992
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:02:18.510150000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryl
+used| 375120
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:02:28.602566000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryl
+used| 375024
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:03:41.074432000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryldaryl
+used| 375152
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:04:28.740746000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryldaryl
+used| 375056
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:04:29.896808000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375184
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:04:58.980942000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375088
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:05:00.587201000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375216
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:05:58.302209000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375120
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:05:59.629366000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375248
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:06:06.366583000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375152
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:06:11.257106000 #### [INFO] #### Connection opened by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375600
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:17:40.864075000 #### [INFO] #### Connection closed by daryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryldaryl
+used| 375504
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 737
+symw| 38301
+
+  2020.02.23D12:17:54.843226000 #### [INFO] #### Connection opened by daryl
+used| 370816
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 733
+symw| 38194
+
+  2020.02.23D12:25:30.201022000 #### [INFO] #### Connection closed by daryl
+used| 375312
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 746
+symw| 38569
+
+  2020.02.23D12:26:10.608224000 #### [INFO] #### Connection opened by daryl
+used| 370432
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 732
+symw| 38157
+
+  2020.02.23D12:26:16.438808000 #### [INFO] #### Connection closed by daryl
+used| 370352
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  2020.02.23D12:26:21.889095000 #### [INFO] #### Connection opened by daryldaryl
+used| 370480
+heap| 67108864
+peak| 67108864
+wmax| 0
+mmap| 0
+mphy| 8467361792
+syms| 736
+symw| 38272
+
+  

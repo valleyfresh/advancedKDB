@@ -1,0 +1,9 @@
+Discuss the effect a schema change to the trade table in the above system e.g. a sequence number column was added to both trade and quote tables. How you would plan a turnover to update the schema.
+A schema change to the trade table (addition of seq num of column to sym.q) will cause the following issues:
+- Feedhandler unable to update the trade table (missing seq num column)
+- Old partitions would not have the new column (unable to query the table over the old+new date partitions e.g select from dxTrade would fail)
+
+Planning a turnover:
+1) Create a script that goes into each date partition for the table and do the following
+- Update the .d file to have a new value seqNum in the new order if required, else add the seqNum as the last value in the .d file list of column names.
+- Get the count of a column in the table partition, create and set a flat file with the same count of nulls for the type of seqNum.

@@ -1,0 +1,11 @@
+KDB+ 3.6 2019.04.02 Copyright (C) 1993-2019 Kx Systems
+l32/ 4()core 3979MB daryl desktop-r7fa812 127.0.1.1 NONEXPIRE  
+
+Welcome to kdb+ 32bit edition
+For support please see http://groups.google.com/d/forum/personal-kdbplus
+Tutorials can be found at http://code.kx.com
+To exit, type \\
+To remove this startup msg, edit q.q
+###[INFO]### Starting TP file creation for IBM sym
+###[INFO]### Completed TP file creationg for IBM sym
+q)
