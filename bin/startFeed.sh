@@ -17,5 +17,5 @@ if [ -z "$(ps -ef | grep $FEED_PORT | grep $SCRIPTS_HOME/feed.q)" ];
 then 
     echo "#### [ERROR] ####: Feedhandler failed to start"
 else
-    echo "#### [INFO] ####: Feedhandler started on port $CEP_PORT"
+    echo "#### [INFO] ####: Feedhandler started on port $FEED_PORT"
 fi
