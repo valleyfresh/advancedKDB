@@ -1,0 +1,22 @@
+Missing .d file in t1
+Fix: Manually set a .d file in the t1 splayed directory with the order of the columns to be displayed in the table.
+
+`:t1/.d set `sym`price`size
+
+Missing price value in t2
+q)count t2
+25
+
+q)count get`:t2/price
+24
+
+Fix: Retrieve the missing price value+index and set it into the price flat file for t2.
+
+sym Column in t3 is not enumerated
+q)get`:t3/sym
+`A`C`C`A`A`A`A`C`C`B`B`C`C`B`B`A`C`A`C`B`C`B`A`C`B
+
+Fix: Enumerate the sym column using the sym file and set it down again for t3.
+
+sym:get`:sym
+`:t3/sym set `sym$get`:t3/sym

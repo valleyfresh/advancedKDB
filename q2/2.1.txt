@@ -1,0 +1,54 @@
+Running 
+q)-11!(-2;`:tplog)
+10
+Revealed that the tplog is uncorrupted
+
+Running 
+q)get `:tplog 
+(`upd;`trade;+`sym`price`size!(`A`C`B`C`B;9.025784 4.470818 1.387079 9.409523..
+(`upd;`trade;+`sym`price`size!(`A`D`A`A`C;5.339515 9.387084 3.027801 4.448492..
+(`upd;`trade;+`sym`price`size!("ACBCD";6.88089 6.377554 0.3845637 8.972357 7...
+(`upd;`trade;+`sym`price`size!(`C`E`B`D`E;9.082711 9.796094 3.077491 3.652273..
+(`upd;`trade;+`sym`price`size!(`F`F`C`F`D;7.24948 8.112026 2.086614 9.907116 ..
+(`upd;`trade;+`sym`price`size!(`A`C`E`D`E;6.919292 9.471555 3.40393 9.614594 ..
+,`upd
+,`trade
+,+`sym`price`size!(`D`B`D`B`C;6.718125 8.639591 8.439807 5.426371 0.7757332;2..
+(`upd;`trade;+`sym`price`size!("FDAEB";2.062569 4.81821 2.065625 5.229178 3.3..
+
+First issue found lied with bad logs at index 6 7 8 where they should be 1 list of 3 arguments instead of 3 separate lists.
+
+Create a new empty log file and open a handle to it
+path:`:tplog_fix
+path set ()
+h:hopen path
+
+Fix was to raze the bad indexes using 
+fix:raze a where 3<>count each(a:get `:tplog)
+
+remove index 7 and 8 from the log file and amend index 6 with the correct value
+a:@[a _/ 8 7;6;:;fix]
+
+Second issue found involved incorrect type for sym (character instead of symbol) and size (float instead of long)
+
+meta raze a[;2;]
+c    | t f a
+-----| -----
+sym  |      
+price| f    
+size |      
+
+Getting the index for incorrect type
+ind1:where 11h<>type each a[;2;`sym]
+ind2:where 7h<>type each a[;2;`size]
+
+Cast sym values to the correct type and send the correct log messages to the empty log file
+h(.//[a;;(`$';"j"$)]((;2;`sym)each ind1;(;2;`size)each ind2))
+
+To confirm that tplog table entries have the correct types
+q)meta raze(get`:tplog_fix)[;2;]
+c    | t f a
+-----| -----
+sym  | s    
+price| f    
+size | j   
