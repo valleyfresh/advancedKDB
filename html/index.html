@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>Trade table query</title>
+        <style>
+            /* define some CSS styling on page elements */
+            #symInput {width: 85%; height: 60px; float:left; padding: 10px;}
+            #cmdInput {margin-left: 10px; width:10%; height:83px; font-weight: bold;}
+            #tableOutput {
+                width: 96%; height: 300px; font-family: "Trebuchet MS"; padding: 10px; 
+                border: 1px solid gray; margin-top: 10px; overflow:auto;
+                display: table;
+            }
+            h3 {margin:10px;}
+            #tradeTable {
+                font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+            #tradeTable td, #tradeTable th {
+            border: 1px solid #ddd;
+            padding: 8px;
+            }
+        </style>
+    </head>
+    <body onload="connect();">
+        <input type="text" id="symInput" placeholder="Input sym to filter on..."></input>
+        <button id="cmdInput" onclick="send()">Filter</button>
+        <div id="symList"></div>
+        <h3>Trade Table</h3>
+        <div id="tableOutput"></div>
+    </body>
+    <script src="js/websocket.js"></script>
+</html>
+<!-- Create an area to display the trades table -->
+<!-- Create a text box filter to enable filtering by sym display reults to the trades table display -->
+<!-- Establish websocket to the hdb process -->
+

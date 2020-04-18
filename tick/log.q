@@ -7,7 +7,7 @@
 connect:flip `date`user`ipAddress`handle`startTime`endTime`duration!"ds*ittt"$\:();
 
 /Dictionary of port to process for log file creation
-filename:(5000;5012;5001;5002;5003)!("tick";"hdb";"rdb1";"rdb2";"cep");
+filename:(5000;5012;5001;5002;5003;5013)!("tick";"hdb";"rdb1";"rdb2";"cep";"websocket");
 
 /Open handle to corresponding log file
 handle:hopen`$":",getenv[`LOG_DIR],"/",filename[system"p"],".log";

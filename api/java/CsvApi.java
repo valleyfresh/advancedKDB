@@ -1,13 +1,8 @@
 import kx.c;
-import kx.c.Timespan;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.io.*;
 import java.nio.file.*;
-import java.util.Date;
-import java.text.SimpleDateFormat;
-import java.text.DateFormat;
-import java.time.*;
 
 public class CsvApi {
     static void headerLines() {
@@ -83,6 +78,7 @@ public class CsvApi {
             c = new c("localhost",tpPort);
             infoLog("Successfuly connected to the TP process");
             
+            //////////////////////////////////////////////////////////////////////////
             headerLines();
             System.out.println("TASK 3: READING AND PUBLISHING CSV FILE CONTENTS");
             headerLines();
@@ -159,9 +155,7 @@ public class CsvApi {
             } 
             
             bodyLines();
-
-            // Object result = c.k("testFunc[4]");
-            // System.out.println("result is: " + result);
+            //////////////////////////////////////////////////////////////////////////
         } catch (Exception e){
             warningLog("Error connecting to the TP Process...");
             e.printStackTrace();

@@ -1,3 +1,8 @@
+
+//////////////////////////////////
+/ HDB init 
+//////////////////////////////////
+
 / Create and open handle to log file
 system"l ",(getenv`SCRIPTS_DIR),"/log.q";
 
@@ -8,4 +13,5 @@ system"l ",(getenv`SCRIPTS_DIR),"/u.q";
 
 /cd into hdblog directory and load hdb
 system"cd ",getenv`HDB_LOG;system"l ."
+
 .log.info["Loaded HDBs"];
